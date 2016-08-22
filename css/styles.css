@@ -1,0 +1,22 @@
+button {
+  margin-left: 1em;
+}
+
+li {
+  cursor: pointer;
+  font-size: 2em;
+}
+
+li:hover {
+  color: #0088cc;
+  text-decoration: line-through;
+}
+
+.jumbotron {
+  background-image: url("http://cdn.jssor.com/demos/img/landscape/03.jpg");
+  color: white;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  text-align: center;
+  text-shadow: 3px 3px black;
+}
