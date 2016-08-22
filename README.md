@@ -29,7 +29,7 @@ _HTML, CSS, Bootstrap, JQuery, JavaScript_
 | Behavior | Input | Output |
 | --- | --- | --- |
 | Entering a todo item stores and displays the item | "Wash car", "Go to dentist", "Roll over 401K" | "Wash car", "Go to dentist", "Roll over 401K" |
-| Marking a todo item "complete" in the UI removes the item from the list and the container | Mark "Go to Dentist" complete | "Wash car", "Roll over 401K" |
+| Clicking a todo item that is present on the page removes the item from the list | Mark "Go to Dentist" complete | "Wash car", "Roll over 401K" |
 
 ### License
 
